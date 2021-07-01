@@ -46,4 +46,9 @@ h6 { font-size: 100%; }
 
 /* setup pre */
 pre { font-family: consolas, monospace; }
-
+body {
+   background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
